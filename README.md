@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Zhang Erli!
+# 👋 Hello, I'm ZHANG Erli!
 
 ## 👤 About me
 I am a final-year undergraduate at Nanyang Technological University 🇸🇬, majoring in Computer Science. My current research interests are **Visual Quality Assessment** and **AI in Healthcare**. I aspire to contribute significantly to the academic community, looking forward to joining a PhD program where I can further explore this field.
