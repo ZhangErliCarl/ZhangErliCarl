@@ -6,6 +6,7 @@ I am a final-year undergraduate at Nanyang Technological University 🇸🇬, ma
 I'm currently applying for PhD programs starting in 2024 Fall!
 
 - **Resume:** [Resume](https://github.com/ZhangErliCarl/ZhangErliCarl/blob/d9101d841202d5aff85f377b96e659a974600480/resume.pdf)
+- **Homepage:** [Homepage](https://zhangerlicarl.github.io/)
 - **Google Scholar:** [Profile](https://scholar.google.com/citations?user=gfjYZKMAAAAJ&hl=en-US)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/zhang-erli/)
 
