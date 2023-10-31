@@ -1,7 +1,9 @@
 # 👋 Hello, I'm ZHANG Erli!
 
 ## 👤 About me
-I am a final-year undergraduate at Nanyang Technological University 🇸🇬, majoring in Computer Science. My current research interests are **Visual Quality Assessment** and **AI in Healthcare**. I aspire to contribute significantly to the academic community, looking forward to joining a PhD program where I can further explore this field.
+I am a final-year undergraduate at Nanyang Technological University 🇸🇬, majoring in Computer Science. My current research interests include **Large Multimodal Models**,  **Visual Quality Assessment** and **AI in Healthcare**. 
+
+I'm currently applying for PhD programs starting in 2024 Fall!
 
 - **Resume:** [Resume](https://github.com/ZhangErliCarl/ZhangErliCarl/blob/d9101d841202d5aff85f377b96e659a974600480/resume.pdf)
 - **Google Scholar:** [Profile](https://scholar.google.com/citations?user=gfjYZKMAAAAJ&hl=en-US)
