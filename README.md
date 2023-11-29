@@ -13,6 +13,11 @@ I'm currently applying for PhD programs starting in 2024 Fall!
 ## 📖 Publications
 
 ### [Q-Bench: Multi-Modality Benchmarking](https://github.com/Q-Future/Q-Bench)
+- **Conference:** In Proceedings of CVPR 2024
+- **Description:** An instruction tuning dataset that focuses on human queries related to low-levelvision.
+- 📖 [Paper](https://arxiv.org/abs/2311.06783)
+  
+### [Q-Bench: Multi-Modality Benchmarking](https://github.com/Q-Future/Q-Bench)
 - **Conference:** In Proceedings of ICLR 2024
 - **Description:** A benchmark for multi-modality LLMs on low-level vision and visual quality assessment.
 - 📖 [Paper](https://arxiv.org/abs/2309.14181)
