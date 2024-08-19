@@ -1,9 +1,7 @@
 # 👋 Hello, I'm ZHANG Erli!
 
 ## 👤 About me
-I am a final-year undergraduate at Nanyang Technological University 🇸🇬, majoring in Computer Science. My current research interests include **Large Multimodal Models**,  **Visual Quality Assessment** and **AI in Healthcare**. 
-
-I'm currently applying for PhD programs starting in 2024 Fall!
+I am a first-year PhD student at the National University of Singapore 🇸🇬, majoring in BioMedical Engineering. Prior to this, I obtained a Bachelor of Engineering in Computer Science from Nanyang Technological University. My current research interests include **AI in Healthcare**, **Surgical Video Analysis**, and **Large Multimodal Models**.
 
 - **Resume:** [Resume](https://github.com/ZhangErliCarl/ZhangErliCarl/blob/d9101d841202d5aff85f377b96e659a974600480/resume.pdf)
 - **Homepage:** [Homepage](https://zhangerlicarl.github.io/)
@@ -11,11 +9,16 @@ I'm currently applying for PhD programs starting in 2024 Fall!
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/zhang-erli/)
 
 ## 📖 Publications
-  
+
+### [Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models] (https://github.com/Q-Future/Q-Instruct)
+- **Conference:** CVPR 2024
+- **Description:** Low-level visual instruction tuning for multi-modality LLMs
+- 📖 [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Q-Instruct_Improving_Low-level_Visual_Abilities_for_Multi-modality_Foundation_Models_CVPR_2024_paper.pdf）
+
 ### [Q-Bench: Multi-Modality Benchmarking](https://github.com/Q-Future/Q-Bench)
 - **Conference:** ICLR 2024 (spotlight)
 - **Description:** A benchmark for multi-modality LLMs on low-level vision and visual quality assessment.
-- 📖 [Paper](https://arxiv.org/abs/2309.14181)
+- 📖 [Paper](https://openreview.net/pdf?id=0V5TVt9bk0)
 
 ### [MaxVQA/MaxWell: Towards Explainable VQA](https://github.com/VQAssessment/MaxVQA)
 - **Conference:** ACMMM 2023 (oral)
