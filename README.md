@@ -13,7 +13,7 @@ I am a first-year PhD student at the National University of Singapore 🇸🇬, 
 ### [Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models] (https://github.com/Q-Future/Q-Instruct)
 - **Conference:** CVPR 2024
 - **Description:** Low-level visual instruction tuning for multi-modality LLMs
-- 📖 [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Q-Instruct_Improving_Low-level_Visual_Abilities_for_Multi-modality_Foundation_Models_CVPR_2024_paper.pdf）
+- 📖 [Paper](https://openaccess.thecvf.com）
 
 ### [Q-Bench: Multi-Modality Benchmarking](https://github.com/Q-Future/Q-Bench)
 - **Conference:** ICLR 2024 (spotlight)
