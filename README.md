@@ -1,7 +1,7 @@
 # 👋 Hello, I'm ZHANG Erli!
 
 ## 👤 About me
-I am a first-year PhD student at the National University of Singapore 🇸🇬, majoring in BioMedical Engineering. Prior to this, I obtained a Bachelor of Engineering in Computer Science from Nanyang Technological University. My current research interests include **AI in Healthcare**, **Surgical Video Analysis**, and **Large Multimodal Models**.
+I am a first-year PhD student at the National University of Singapore 🇸🇬, majoring in Biomedical Engineering. Prior to this, I obtained a Bachelor of Engineering in Computer Science from Nanyang Technological University. My current research interests include **AI in Healthcare**, **Surgical Video Analysis**, and **Large Multimodal Models**.
 
 - **Resume:** [Resume](https://github.com/ZhangErliCarl/ZhangErliCarl/blob/d9101d841202d5aff85f377b96e659a974600480/resume.pdf)
 - **Homepage:** [Homepage](https://zhangerlicarl.github.io/)
