@@ -32,5 +32,5 @@ I am a first-year PhD student at the National University of Singapore 🇸🇬, 
 - **Demo:** [Demo](https://colab.research.google.com/github/taskswithcode/DOVER/blob/master/TWCDOVER.ipynb)
 
 ## 📬 Contact Me
-- **Email:** zhangerlicarl@gmail.com or ezhang005@e.ntu.edu.sg
+- **Email:** zhangerlicarl@gmail.com or erli.zhang@u.nus.edu
 - **Twitter:** [@zhang_erli](https://twitter.com/zhang_erli)
