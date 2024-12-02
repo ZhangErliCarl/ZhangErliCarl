@@ -13,7 +13,7 @@ I am a first-year PhD student at the National University of Singapore 🇸🇬, 
 ### [Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning](https://github.com/jinlab-imvr/Surgical-SAM-2)
 - **Conference:** NeurIPS 2024 Workshop
 - **Description:** Efficient Segment Anything 2 (SAM2) with efficient frame pruning mechanism for real-time surgical video segmentation
-- 📖 [Paper] (https://arxiv.org/pdf/2408.07931)
+- 📖 [Paper](https://arxiv.org/pdf/2408.07931)
 
 ### [Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models](https://github.com/Q-Future/Q-Instruct)
 - **Conference:** CVPR 2024
