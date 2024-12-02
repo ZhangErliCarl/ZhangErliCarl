@@ -3,7 +3,7 @@
 ## 👤 About me
 I am a first-year PhD student at the National University of Singapore 🇸🇬, majoring in Biomedical Engineering. Prior to this, I obtained a Bachelor of Engineering in Computer Science from Nanyang Technological University. My current research interests include **AI in Healthcare**, **Surgical Video Analysis**, and **Large Multimodal Models**.
 
-- **Resume:** [Resume](https://github.com/ZhangErliCarl/ZhangErliCarl/blob/d9101d841202d5aff85f377b96e659a974600480/resume.pdf)
+- **Resume:** [Resume](https://github.com/ZhangErliCarl/ZhangErliCarl/blob/main/Zhang%20Erli%20CV%202024%20Dec.pdf)
 - **Homepage:** [Homepage](https://zhangerlicarl.github.io/)
 - **Google Scholar:** [Profile](https://scholar.google.com/citations?user=gfjYZKMAAAAJ&hl=en-US)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/zhang-erli/)
